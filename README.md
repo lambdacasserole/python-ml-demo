@@ -10,8 +10,7 @@ Additionally, a script is provided that generates visualisations using [Matplotl
 You'll obviously need Python 3 installed to run this demo. You'll also need a number of Python libraries installed to work with this demo:
 + [Matplotlib](https://matplotlib.org/) - for data visualisation
 + [Pandas](https://pandas.pydata.org/) - for loading data frames from CSV files
-+
-[Keras](https://keras.io/) - the high-level machine learning package we use directly to construct neural networks in this project
++ [Keras](https://keras.io/) - the high-level machine learning package we use directly to construct neural networks in this project
 + [Tensorflow](https://tensorflow.org/)- the machine learning platform that Keras sits on top of
 
 You can either install these like so on your Linux/Windows/MacOS machine at the terminal/command prompt:
