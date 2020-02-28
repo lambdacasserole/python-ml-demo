@@ -7,7 +7,7 @@ This repository demonstrates very basic use of neural networks for determining t
 Additionally, a script is provided that generates visualisations using [Matplotlib](https://matplotlib.org/) from the result of running a neural network trained on half the data over the other half (the *testing* data).
 
 ## Prerequisites
-You'll need a number of Python libraries installed to work with this demo:
+You'll obviously need Python 3 installed to run this demo. You'll also need a number of Python libraries installed to work with this demo:
 + [Matplotlib](https://matplotlib.org/) - for data visualisation
 + [Pandas](https://pandas.pydata.org/) - for loading data frames from CSV files
 +
